@@ -16,7 +16,7 @@ I will try to answer 4 main problems:
 I will use python for some reasons:
   1. Take an overview and clean the dataset
   2. Proceed analysis to answer problems listed above (Add some personal analysis)
-  3. Predict the customers who are going to churn
+  3. Predict the customers who are going to churn (I'm in trouble - not completed this yet)
   4. Show visualization to understand better the analytic results before creating dashboard and slides.
 ### In Tableau
 I will show my analytical results to stakeholders in 2 things:
