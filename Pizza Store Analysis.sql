@@ -169,11 +169,11 @@ SELECT t.Month,
 	   ROUND(v.Store_voucher_orders / t.Store_total_orders * 100, 2) AS [Store voucher usage (%)],
 	   ROUND(v.Website_voucher_orders / t.Website_total_orders * 100, 2) AS [Website voucher usage (%)] 
 FROM total_orders AS t JOIN voucher_used AS v
-ON t.Month = v.Month
+ON t.Month = v.Month;
 
 SELECT *
 FROM [Percentage of voucher usage by different order channel in 2022]
-ORDER BY Month ASC
+ORDER BY Month ASC;
 
 -- Calculate the total sales of each day in weeks
 -- Add day_name column
@@ -201,11 +201,11 @@ SELECT CustomerID,
 	   ROUND(AVG(SalesAmount)/ 1000, 2) AS [Average sales per order (Thousand VND)]
 FROM Pizza_sales_cleaned
 WHERE YEAR(TransactionDate) = 2022
-GROUP BY CustomerID
+GROUP BY CustomerID;
 
 SELECT TOP(100) *
 FROM [Top 100 valueable customers in 2022]
-ORDER BY [total sales (Million VND)] DESC
+ORDER BY [total sales (Million VND)] DESC;
 
 -- Calculate the customer retention rate 
 -- Number of repeated customers / total customers
