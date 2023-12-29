@@ -21,5 +21,5 @@ I will use python for some reasons:
   4. Show visualization to understand better the analytic results before creating dashboard and slides.
 ### In Tableau
 I will show my analytical results to stakeholders in 2 things:
-  1. A dashboard to summarise sales of 2022
+  1. A dashboard to summarise sales performance of 2022
   2. A story-telling slides to present the present trends, anomalies, valuable insights from recent sales performance... 
