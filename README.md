@@ -9,9 +9,10 @@ Start point: Make a list of business requirements related to sales performance f
 ### In SQL
 I will try to answer 4 main problems: 
   1. How is the revenue going over time and it's monthly growth rate showing? In 2022, what is the most profitable days, month and period?
-  2. In 12 months in 2022, what channel, order type and province create the most revenue ?
-  3. Find top 100 valueable customers to award them with gifts or promotion activities
-  4. Calculate the quaterly retention rate in 2022
+  2. In 12 months in 2022, what channel, order type, vouchers and province create the most revenue ?
+  3. What is the percentage of voucher users from different order types? Are they not attractive or do buyers have any problems in using the vouchers?
+  4. Find top 100 valueable customers to award them with gifts or promotion activities
+  5. Calculate the quaterly retention rate in 2022
 ### In Python
 I will use python for some reasons:
   1. Take an overview and clean the dataset
