@@ -1,5 +1,5 @@
 ## About my Pizza store's sales analysis project
-In this project, I proceed an analysis on sales records of a Pizza Brand. With my knowledge of this industry and the dataset, I will focus on the most recent year (2022) to gain insights about the sales performance and predict some customers buying behaviour for the near future. I will use both SQL and Python for this project because from my experience, sometimes python can help with dataser overview, data cleaning and data visualizations... 
+In this project, I proceed an analysis on sales records of a Pizza Brand. With my knowledge of this industry and the dataset, I will focus on the most recent year (2022) to gain insights about the sales performance . I will use both SQL and Python for this project because from my experience, sometimes python can help with dataser overview, data cleaning and data visualizations... 
 Specifically, this is my analytical process:\
 Start point: Make a list of business requirements related to sales performance for later analysis\
 -> Collect necessary data. Take an overview and clean the datasets using Python\
